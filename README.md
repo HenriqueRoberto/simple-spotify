@@ -27,9 +27,4 @@ Os dados de artistas e músicas foram fornecidos pela própria Hashtag Treinamen
 - **Deploy:** https://simple-spotify-442v.onrender.com
 
 
-## 💡 Aprendizados
-
-Este projeto me ajudou a consolidar conceitos fundamentais da stack MERN e aumentou minha motivação para continuar aprendendo e criando aplicações mais completas no futuro.
-
----
 
