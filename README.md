@@ -6,7 +6,7 @@ Uma versão reduzida do Spotify desenvolvida como parte da **Jornada Fullstack d
 
 - **ReactJS** – Hooks, componentes e gerenciamento de estado
 - **Node.js** – Criação de API e integração com o front-end
-- **MongoDB (Atlas)** – Banco de dados NoSQL em cluster
+- **MongoDB** – Banco de dados NoSQL em cluster
 - **Render** – Deploy da aplicação (back-end e front-end)
 
 ## 🎯 Objetivo do Projeto
